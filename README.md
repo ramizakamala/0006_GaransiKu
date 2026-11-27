@@ -53,3 +53,4 @@ Berikut adalah linimasa pengembangan proyek GaransiKu yang direkonstruksi secara
 
 - **Penempatan Dokumen Perancangan** (`3acb520`): Menyusun dokumen SRS versi 0.2 beserta diagram hubungan antar-entitas dan diagram use case, kemudian menempatkan berkas PDF-nya pada folder `doc`.
 - **Struktur Repositori dan README** (`e209653`): Membuat README yang memuat deskripsi aplikasi, teknologi yang dipakai, daftar fitur beserta statusnya, dan format catatan progress mingguan.
+- **Diagram Aktivitas per Fitur** (`4720e78`): Menambahkan delapan diagram aktivitas pada Lampiran B.4 dokumen SRS beserta rujukannya pada setiap fitur di Bab 3, kemudian memperbarui berkas PDF pada folder `doc`.
