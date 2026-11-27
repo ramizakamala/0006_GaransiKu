@@ -59,3 +59,4 @@ Repositori belum memuat commit pada pertemuan ini; penyiapan judul dan penyusuna
 - **Struktur Repositori dan README** (`e209653`): Membuat README yang memuat deskripsi aplikasi, teknologi yang dipakai, daftar fitur beserta statusnya, dan format catatan progress mingguan.
 - **Diagram Aktivitas per Fitur** (`4720e78`): Menambahkan delapan diagram aktivitas pada Lampiran B.4 dokumen SRS beserta rujukannya pada setiap fitur di Bab 3, kemudian memperbarui berkas PDF pada folder `doc`.
 - **Penyesuaian Mekanisme Autentikasi** (`037c57d`): Menyesuaikan SRS menjadi versi 0.3 — access token tanpa masa berlaku, refresh token per sesi yang dicabut saat keluar, kolom `refresh_token` pada tabel akun, serta pembaruan diagram hubungan antar-entitas dan diagram aktivitas autentikasi.
+- **Penyesuaian Penamaan Berkas** (`2e38c17`): Mengubah nama berkas dokumen menjadi `GaransiKu_SRS_0006.pdf` pada folder `doc` dan memperbarui tautan dokumen pada README.
