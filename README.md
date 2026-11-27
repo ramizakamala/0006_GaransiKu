@@ -47,9 +47,13 @@ Keterangan status: **Belum**, **Proses**, **Selesai**.
 
 ## 4. Progress Mingguan (Weekly Progress)
 
-Berikut adalah linimasa pengembangan proyek GaransiKu yang direkonstruksi secara riil berdasarkan riwayat git commit:
+Berikut adalah linimasa pengembangan proyek GaransiKu yang direkonstruksi secara riil berdasarkan riwayat git commit pada 0006_GaransiKu (Mobile), mulai dari pertemuan 9 hingga pertemuan 16 sesuai pedoman Bagian C.
 
-🗓️ Minggu 1 (27 November 2026 - 29 November 2026)
+📅 Pertemuan 9 (17 – 23 Nov 2026) — 0006_GaransiKu
+
+Repositori belum memuat commit pada pertemuan ini; penyiapan judul dan penyusunan dokumen kebutuhan berlangsung sebelum repositori diinisialisasi.
+
+📅 Pertemuan 10 (24 – 30 Nov 2026) — 0006_GaransiKu
 
 - **Penempatan Dokumen Perancangan** (`3acb520`): Menyusun dokumen SRS versi 0.2 beserta diagram hubungan antar-entitas dan diagram use case, kemudian menempatkan berkas PDF-nya pada folder `doc`.
 - **Struktur Repositori dan README** (`e209653`): Membuat README yang memuat deskripsi aplikasi, teknologi yang dipakai, daftar fitur beserta statusnya, dan format catatan progress mingguan.
