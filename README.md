@@ -52,4 +52,4 @@ Berikut adalah linimasa pengembangan proyek GaransiKu yang direkonstruksi secara
 🗓️ Minggu 1 (27 November 2026 - 29 November 2026)
 
 - **Penempatan Dokumen Perancangan** (`3acb520`): Menyusun dokumen SRS versi 0.2 beserta diagram hubungan antar-entitas dan diagram use case, kemudian menempatkan berkas PDF-nya pada folder `doc`.
-- **Struktur Repositori dan README** (`3acb520`): Membuat README yang memuat deskripsi aplikasi, teknologi yang dipakai, daftar fitur beserta statusnya, dan format catatan progress mingguan.
+- **Struktur Repositori dan README** (`e209653`): Membuat README yang memuat deskripsi aplikasi, teknologi yang dipakai, daftar fitur beserta statusnya, dan format catatan progress mingguan.
