@@ -20,7 +20,7 @@ Aplikasi terdiri atas dua bagian yang dipisahkan menjadi dua repositori:
 - **Mobile** (repositori ini): aplikasi Android berbasis Kotlin dan Jetpack Compose.
 - **API**: layanan backend Laravel beserta basis data MySQL, berada pada repositori `0006_API_GaransiKu`.
 
-Dokumen kebutuhan perangkat lunak tersedia pada folder [`doc`](doc/SRS_GaransiKu_0006.pdf).
+Dokumen kebutuhan perangkat lunak tersedia pada folder [`doc`](doc/GaransiKu_SRS_0006.pdf).
 
 ## 2. Teknologi
 
